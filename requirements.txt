@@ -1,4 +1,6 @@
+
 Flask>=3.0,<4
-gunicorn>=21.2,<24
-numpy<2
-opencv-python-headless>=4.8
+streamlit==1.59.2
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+pyarrow==17.0.0
